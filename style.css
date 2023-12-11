@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(255, 242, 242);
+}
+.bg{
+    margin-top: 10%;
+}
+.txt{
+    margin-top: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+
+
+}
+.btn{
+    color: rgb(253, 245, 233);
+    
+}
+.yl{
+    background-color: rgb(224, 147, 3);
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+ 
+  
+}
+h3{
+    margin-top: 3%;
+    margin-bottom: 3%;
+   
+}
+.bx{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.collapse{
+    margin-left: 46%;
+}
+.pro{
+    background-color: rgb(185, 173, 145);
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    height: 50%;
+ 
+}
+.btn1{
+    height: 50%;
+    margin-left: 3%;
+    margin-top: 5%;
+   
+    cursor: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sword_01.svg/640px-Sword_01.svg.png"), auto;
+    
+}
+
+h1{
+    margin-top: 5%;
+    
+}
+.crd{
+
+    border-radius: 5%;
+    height: 20%;
+    width: 20%;
+    background-color: white;
+}
+.kelas{
+    width: 10%;
+    height: 10%;
+}
+img{
+    border-radius: 5%;
+    cursor: pointer;
+
+  
+}
+.card{
+   width: 60%;
+transition: 1s;
+   
+}
+.txt1{
+    margin-left: 20%;
+}
+.gm{
+    margin-left: 20%;
+}
+.HD{
+    margin-left: 5%;
+}
+.card:hover{
+    transform: scale(1.1);
+    
+}
+.mtr{
+    transition: 2s;
+}
+.mtr:hover{
+
+    transform: rotate(360deg);
+}
+.end{
+    background-color: rgb(15, 15, 49);
+    color: rgb(230, 220, 220);
+}
+.lg{
+    margin-top: 3%;
+}
+.evnt{
+    align-items: center;
+}
+.tk{
+    margin-right: 5%;
+}
+hr{
+    margin-left: 10%;
+}
